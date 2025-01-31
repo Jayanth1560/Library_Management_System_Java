@@ -157,5 +157,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 - Built as a project to showcase Java programming skills.
 
 ---
-
-This `README.md` provides a clear and professional overview of your project. It includes all the necessary details for someone to understand, use, and contribute to your project. You can customize it further to suit your needs! 🚀

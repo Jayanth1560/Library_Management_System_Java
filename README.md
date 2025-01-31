@@ -1,7 +1,4 @@
-Absolutely! A well-written `README.md` file is essential for any GitHub project. Below is a comprehensive `README.md` for your **Library Management System** project. You can copy and paste this into a file named `README.md` in your project directory.
-
 ---
-
 # Library Management System
 
 A Java-based **Library Management System** that allows users to manage books in a library. This project demonstrates the use of object-oriented programming, file handling, and command-line interfaces in Java.
